@@ -10,8 +10,6 @@ namespace ProGitForProgrammers
             Console.WriteLine("I just added this in Visual Studio");
             Console.WriteLine("I just added this in stage");
             Console.WriteLine("I just added this in Book Branch");
-            Console.WriteLine("Fix Bug");
-
         }
     }
 }
