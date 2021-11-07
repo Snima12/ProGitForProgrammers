@@ -11,6 +11,8 @@ namespace ProGitForProgrammers
             Console.WriteLine("I just added this in stage");
             Console.WriteLine("I just added this in Book Branch");
             Console.WriteLine("New main line");
+            Console.WriteLine("Fix Bug1");
+
         }
     }
 }
